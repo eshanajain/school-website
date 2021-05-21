@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+#latestnews{
+    font-size: 40px;
+font-family: cursive;
+}
+#pricipalsdesk{
+    font-size: 40px;
+    font-family: fantasy;
+}
+p{
+    font-size: 20px;
+}
